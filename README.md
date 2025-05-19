@@ -1,38 +1,58 @@
-# Coffee Shop Sales Dashboard
+# ☕ Coffee Shop Sales Dashboard (Power BI)
 
-## 🔍 Overview
-A Power BI dashboard analyzing monthly sales performance for a coffee shop, including KPIs, product trends, and store insights.
+## 📝 Project Overview
 
-## 📊 Key Features
-- Total Sales, Orders, and Quantity KPIs
-- Daily and Hourly Sales Trends
-- Top-Selling Products and Categories
-- Weekday vs Weekend Sales Breakdown
-
-## 📁 Files Included
-- Coffee_Shop_Sales.pbix
-
-## 📎 Preview
-![coffee](https://github.com/user-attachments/assets/3b53fa75-c092-46d6-8223-6600d78713ce)
-
+This project presents a detailed **Power BI dashboard** to analyze sales performance for a coffee shop business. It provides interactive and data-driven insights into sales trends, customer behavior, product performance, and store-level analytics — enabling better business decision-making.
 
 ---
 
-# FNP Sales Analysis
+## 🛠 Tools & Techniques Used
 
-## 🔍 Overview
-An Excel-based dashboard analyzing ₹35L+ revenue from 1,000 orders for FNP, with insights on product, occasion, and region.
+- Power BI Desktop  
+- Data Modeling  
+- DAX (Data Analysis Expressions)  
+- Interactive Visualizations  
+- Slicers and Filters for Dynamic Exploration  
 
-## 📊 Key Features
-- Revenue by Occasion, Category, Month, and City
-- Top Products by Revenue
-- Average Customer Spend and Delivery Time
+---
+
+## 📌 Key Metrics & Insights
+
+- **Total Sales:** $99,000  
+- **Total Orders:** 21,229  
+- **Total Quantity Sold:** 30,406  
+- **Top Categories:** Coffee, Tea, Bakery  
+- **Top Products:** Barista Espresso, Brewed Chai Tea, Hot Chocolate  
+- **Peak Sales Hours:** 8 AM – 11 AM  
+- **High-Performing Stores:** Astoria, Hell's Kitchen, Lower Manhattan  
+- **Weekday vs Weekend Sales Analysis**  
+- **Daily & Hourly Sales Trends**  
+
+---
 
 ## 📁 Files Included
-- FNP_Sales_Analysis.xlsx
+
+- `Coffee_Shop_Sales.pbix` — Main Power BI report file  
+- `Dashboard_Screenshot.png` — Visual preview of the dashboard (optional)  
+- `README.md` — This project documentation  
+
+---
+
+## 📈 Outcome
+
+The dashboard provides a centralized and intuitive platform for monitoring store performance, understanding customer preferences, and identifying high-performing products and sales periods. It supports strategic planning through real-time, visual storytelling.
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](./Dashboard_Screenshot.png)
+
+---
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/pavan-manumarri-/]) or reach out via GitHub!
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/pavan-manumarri-/]) or drop a message here if you'd like to discuss this project or collaborate on data analytics tasks.
 
 ---
+
