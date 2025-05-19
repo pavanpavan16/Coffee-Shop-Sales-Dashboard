@@ -46,13 +46,13 @@ The dashboard provides a centralized and intuitive platform for monitoring store
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./Dashboard_Screenshot.png)
+![coffee](https://github.com/user-attachments/assets/c7786209-60b5-46a0-a6b7-bd7f86e7ef98)
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/pavan-manumarri-/]) or drop a message here if you'd like to discuss this project or collaborate on data analytics tasks.
+Feel free to connect with me on [LinkedIn][https://www.linkedin.com/in/pavan-manumarri-/] or drop a message here if you'd like to discuss this project or collaborate on data analytics tasks.
 
 ---
 
