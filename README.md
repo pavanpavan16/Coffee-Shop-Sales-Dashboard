@@ -33,6 +33,6 @@ An Excel-based dashboard analyzing ₹35L+ revenue from 1,000 orders for FNP, wi
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/pavan-manumarri-/)) or reach out via GitHub!
+If you have any questions or suggestions, feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/pavan-manumarri-/]) or reach out via GitHub!
 
 ---
